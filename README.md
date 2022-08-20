@@ -1,6 +1,6 @@
 🌐 ¡Hola mundo!
 
-👋 Me llamo _COMPLETAR_
-🗺️ y actualmente estoy en _COMPLETAR_.
+👋 Me llamo Bot
+🗺️ y actualmente estoy en el metaverso.
 
 📆 En los próximos días, me gustaría _COMPLETAR_.
